@@ -1005,7 +1005,7 @@ var rules = [
   "gigporno.ru", 
   "||gimpshop.com", 
   "||girlbanker.com", 
-  "|https://gist.github.com", 
+  //"|https://gist.github.com", 
   "||glennhilton.com", 
   "globaljihad.net", 
   "globalmuseumoncommunism.org", 
@@ -3807,7 +3807,7 @@ var rules = [
   "||bbc.co.uk", 
   "||googleapis.com", 
   "||googlesyndication.com", 
-  "||github.com", 
+  //"||github.com", 
   "||wikipedia.org"
 ];
 
