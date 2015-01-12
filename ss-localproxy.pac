@@ -3808,6 +3808,8 @@ var rules = [
   "||googleapis.com", 
   "||googlesyndication.com", 
   "||github.com", 
+  "||githubapp.com",
+  "||githubusercontent.com",
   "||wikipedia.org"
 ];
 
