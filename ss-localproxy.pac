@@ -3810,7 +3810,10 @@ var rules = [
   "||github.com", 
   "||githubapp.com",
   "||githubusercontent.com",
-  "||wikipedia.org"
+  "||wikipedia.org",
+  "github.com"
+  "githubapp.com"
+  "githubusercontent.com"
 ];
 
 /*
