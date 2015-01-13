@@ -3811,8 +3811,8 @@ var rules = [
   "||githubapp.com",
   "||githubusercontent.com",
   "||wikipedia.org",
-  "github.com"
-  "githubapp.com"
+  "github.com",
+  "githubapp.com",
   "githubusercontent.com"
 ];
 
