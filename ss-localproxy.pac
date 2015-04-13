@@ -3860,7 +3860,8 @@ var rules = [
   "||googleapis.com", 
   "||googlesyndication.com", 
   "||github.com", 
-  "||wikipedia.org"
+  "||wikipedia.org",
+  "quora.com"
 ];
 
 /*
